@@ -63,6 +63,8 @@ PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-udpxy-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-msd_lite-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-banip-zh-cn"
+PACKAGES="$PACKAGES ddns-scripts-aliyun"
+PACKAGES="$PACKAGES ddns-scripts-cloudflare"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
