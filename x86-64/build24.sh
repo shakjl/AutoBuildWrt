@@ -69,7 +69,7 @@ PACKAGES="$PACKAGES acme-acmesh-dnsapi"
 PACKAGES="$PACKAGES luci-i18n-acme-zh-cn"
 PACKAGES="$PACKAGES luci-ssl-openssl"
 PACKAGES="$PACKAGES luci-i18n-uhttpd-zh-cn"
-# PACKAGES="$PACKAGES tvheadend"
+PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
 PACKAGES="$PACKAGES igmpproxy"
 
 # 文件管理器
